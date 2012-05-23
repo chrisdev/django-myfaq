@@ -9,7 +9,7 @@ def read(fname):
 
 PACKAGE = "faq"
 NAME = "django-myfaq"
-DESCRIPTION = "A fork of django-faq that we use in most of our projects"
+DESCRIPTION = "An independent fork of django-faq by Kevin Fricovsky that we use in some of our projects"
 AUTHOR = "Chris Clarke"
 AUTHOR_EMAIL = "cclarke@chrisdev.com"
 URL = "http://github.com/chrisdev/pinax-theme-foundation"
